@@ -241,4 +241,10 @@ Configuration steps can be found on Udacity course [here](http://https://classro
 ##  11. Set up Route 53 domain
 Help with domain registration can be found in [AWS documentation](http://https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started.html)
 
+## 12. Third-Party Resources
+
+- [AWS Lightsail]( https://lightsail.aws.amazon.com/ls/docs/en/articles/getting-started-with-amazon-lightsail)
+- [Route 53 domain configuration](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-register.html)
+- [Postgresql](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
+
 
